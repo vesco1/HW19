@@ -1,0 +1,87 @@
+
+header {
+    height: 80%;
+    background-color: #F0EEEC;
+}
+
+.logo {
+    padding: 1%;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.navigation {
+    text-align: right;
+    color: black;
+
+}
+
+.heroImg {
+  height: 350px;
+  padding: 25px;
+  background-color: #D2972A;
+
+}
+
+#introText{
+    padding-left: 50px;
+
+}
+#myWork {
+    text-align: center;
+}
+
+.work {
+    display: flex;
+    align-items: space-between;
+    margin-top: 50px;
+}
+
+#pawBud {
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+#backBay {
+    padding-left: 80px;
+}
+
+.content {
+    width: 800px;
+    height: 300px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+ 
+footer {
+   background-color: rgba(210, 151, 42, 0.10);
+   padding: 1%;
+
+   text-align: center;
+   height: auto
+
+}
+
+body {
+    font-family: Piazolla 'Times New Roman', Times, serif;
+    
+}
+button {
+    width: 200px;
+    height: 30px;
+    padding: 5px;
+    background-color: rgba(157, 95, 65, 1);
+    border-radius: 8px;
+    text-align: center;
+    color: white;
+    position: relative;
+}
